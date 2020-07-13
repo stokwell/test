@@ -1,0 +1,149 @@
+
+Laudan’s Normative Naturalism 301 
+
+The point of the example, rather, is that methodological rules are not justified 
+instrumentally. This can be seen by dropping talk of aims and goals altogether, 
+and restoring Q and R to ‘elliptical’ form: 
+
+Q’: Prefer double-blind to single-blind experiments. 
+R’: Prefer single-blind to double-blind experiments. 
+
+We all agree that Q’, not R’, is the justified methodological rule. But its 
+justification has nothing to do with its instrumental efficacy in realizing some 
+cognitive aim. Q’ is justified, not instrumentally, but epistemically: double- 
+blind experimentation provides better evidence for a drug’s efficacy than single- 
+blind experimentation, because it controls for an additional source of possible 
+error (namely, bias created by researcher expectation transmitted to subjects 
+and manifested in the placebo effect). The fact that double-blind experimen- 
+tation controls for this possible source of experimental error, which single- 
+blind experimentation does not, establishes that R’ is less well justified than Q’. 
+R’s unjustifiedness is not a function of instrumental efficacy: as the example 
+above illustrates, single-blind experimentation can be plausibly thought to be 
+more instrumentally efficacious than double-blind experimentation, with 
+respect to plausible research goals. However instrumentally efficacious single- 
+blind experimentation might be, however, double-blind experimentation con- 
+trols for an additional source of possible bias/experimental error, and so 
+affords stronger evidence for a drug’s efficacy, than single-blind experimen- 
+tation; for that reason, Q’ is the justified methodological rule here. This would 
+be so even if the research community adopted the goals articulated in R - that 
+is, even if we adopted those goals, we would be more justified in believing that 
+drug/therapy D really works if the evidence for that belief stems from double- 
+blind experimentation than we would be if our belief was based on numerically 
+equivalent data stemming from single-blind experimentation. Our belief about 
+D is better justified in the first circumstance because double-blind experimen- 
+tation provides better evidence for such claims and is more epistemically 
+forceful; methodological rule Q’ is more justified than R’ because it affords 
+greater epistemic weight than R’ to the results of experiments of the sort it 
+urges. The justification of methodological rules is an epistemic, not an instru- 
+mental, matter: in general, a rule is justified insofar as it confers warrant to the 
+results of experiments conducted in accordance with its directives.4 
+
+In some circumstances we might be pragmatically justified in utilizing the 
+less justified R’, for example when we have an overriding interest in testing a 
+large number of drugs/therapies and can tolerate a real but small experimental 
+
+‘The justification of methodological rules proceeds in accordance with relevant epistemic 
+principles; in the case under discussion, the principle might be something like ‘A methodological 
+rule is justified insofar as it maximizes the probability that experimentation conducted in 
+accordance with it leads to true (or valid) results’. Of course there is much more to be said about 
+such principles and their epistemic status. 
+
+[image: image0.tif]
+
+[image: image1.tif]Laudan's Normative Naturalism . 301
+
+
+[image: image2.tif]The point of the example, rather, is that methodological rules are not justified
+instrumentally. This can be seen by dropping talk of aims and goals altogether,
+
+
+[image: image3.tif]and restomng Y and A tO Cluplical form:
+
+Q’: Prefer double-blind to single-blind experiments.
+PD’. Deafer cinogle-hlind tr aanhlehlind avnarimentc
+
+
+[image: image4.tif]nee ne ne nn ene ee nn ne NO) OE NE ES OE LISA BESS
+
+We all agree that Q’, not R’, is the justified methodological rule. But its
+
+qietificatinn hac nothing to do with its inctmimental effiracry in realigino came
+
+
+[image: image5.tif]REI IEE IEE EIEIO IEEE gp EER EEE IEEE Neg EOE IE _
+
+cognitive aim. Q’ is justified, not instrumentally, but epistemically: double-
+blind experimentation provides better evidence for a drug’s efficacy than single-
+
+
+[image: image6.tif]blind experimentation, because it Controls for an additional source of possible
+
+error (namely, bias created by researcher expectation transmitted to subjects
+and manifested in the nlaceho effect) The fact that douhle-hlind exnerimen-
+
+
+[image: image7.tif]EE EEE ER
+
+tation controls for this possible source of experimental error, which single-
+blind experimentation does not, establishes that R’ is less well justified than Q’.
+
+
+[image: image8.tif]AS unjustinedness 1s not a function of instrumental eiicacy: as the example
+above illustrates, single-blind experimentation can be plausibly thought to be
+more instrumentally efficacious than double-blind exnerimentation. with
+
+
+[image: image9.tif]respect to plausible research goals. However instrumentally efficacious single-
+blind experimentation might be, however, double-blind experimentation con-
+
+
+[image: image10.tif]trols for an additional source of possible dlas/experimental error, and so
+affords stronger evidence for a drug’s efficacy, than single-blind experimen-
+tation: for that reason. QO’ is the justified methodological rule here. This would
+
+
+[image: image11.tif]be so even if the research community adopted the goals articulated in R — that
+is, even if we adopted those goals, we would be more justified in believing that
+
+
+[image: image12.tif]arug;therapy £/ really works if tne evidence for that Delier stems [rom doubile-
+blind experimentation than we would be if our belief was based on numerically
+equivalent data stemming from single-blind experimentation. Our belief about
+
+
+[image: image13.tif]D is better justified in the first circumstance because double-blind experimen-
+tation provides better evidence for such claims and is more epistemically
+
+f ee @ eg4§ ° ?€ ?* mus om 4 i ~
+
+
+[image: image14.tif]TOTCeIUL, MemModoiOgical rule YY 18 more justined (han A oecause it alforas
+greater epistemic weight than R’ to the results of experiments of the sort it
+urges. The justification of methodological rules is an epistemic, not an instru-
+
+
+[image: image15.tif]mental, matter: in general, a rule is justified insofar as it confers warrant to the
+results of experiments conducted i in accordance with its directives.‘
+
+wT Be —@ 2. ae gee . eget eae oe i.
+
+
+[image: image16.tif]AM SOMME CHEUTNSTAees We Tight OC PrdsmnaliCdaily JUSUNCG IN UlLIZIneg the
+less justified R’, for example when we have an overriding interest in testing a
+large number of drugs/therapies and can tolerate a real but small experimental
+
+
+[image: image17.tif]‘The justification of methodological rules proceeds in accordance with relevant epistemic
+Principles; in the case under discussion, the principle might be something like ‘A methodological
+rule is iustified insofar as it maximizes the probability that experimentation conducted in
+
+
+[image: image18.tif]eg ne
+
+accordance with it leads to true (or valid). results’. Of course there is much 1 more to be said about
+such principles and their epistemic status.
+
+
+[image: image19.tif]
+
+
